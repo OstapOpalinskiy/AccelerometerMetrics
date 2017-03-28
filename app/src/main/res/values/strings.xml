@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Servise Test</string>
+    <string name="create_table_accelerometer_metrics">
+        create table accelerometer_metrics(_id integer primary key autoincrement,date_created text,actionName text,actionValue text);
+    </string>
+</resources>
